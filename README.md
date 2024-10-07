@@ -14,7 +14,10 @@
 
 <img src="https://github.com/user-attachments/assets/e6237f74-232f-40a7-a4d2-f5a53a67b54f" width="70" height="70"> <img src="https://github.com/user-attachments/assets/35f1359a-3b4a-413a-b126-1352ef8382ac" width="70" height="70"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-vim-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-freebies-pack-logos-icons-1175075.png?f=webp&w=256" width="60" height="60">
 
+## Recent Activity :bell:
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
   </tr>
   </table>
