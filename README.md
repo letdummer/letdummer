@@ -24,7 +24,7 @@
 </summary>
 
 - [Libft](https://github.com/letdummer/42_libft)
-- [ft_printf](https://github.com/letdummer/42_ft_printf)
+- [ft_printf](https://github.com/letdummer/42_printf.git)
 
 </details>
 <!-- !end! LIST OF PROJECTS -->
