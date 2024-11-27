@@ -30,10 +30,11 @@
 <!-- !end! LIST OF PROJECTS -->
 
 
+<!-- BADGE WITH LAST COMMIT // change the last parameter to the most recent repository-->
 
+![GitHub last commit](https://img.shields.io/github/last-commit/letdummer/42_printf)
 
-
-
+<!-- !end! BADGE WITH LAST COMMIT -->
 
 
 <!-- DESCRIPTION OF THE LANGUAGES AND TOOLS USED -->
