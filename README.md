@@ -24,7 +24,8 @@
 </summary>
 
 - [Libft](https://github.com/letdummer/42_libft)
-- [ft_printf](https://github.com/letdummer/42_printf.git)
+- [ft_printf](https://github.com/letdummer/42_printf)
+- [Born2beRoot](https://github.com/letdummer/42_Born2beRoot)
 
 </details>
 <!-- !end! LIST OF PROJECTS -->
