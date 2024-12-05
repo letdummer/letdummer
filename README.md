@@ -1,18 +1,22 @@
-<!--
+<!----------- COMENTADO
 <div align="center">
 <a href="https://www.behance.net/pixeljeff">
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_632/1599d7107019725.5f9d3c7bae636.gif" width="800" height="402">
 </a>
 </div>
--->
+FIM COMENTARIO ------->
+
 
 <!-- BADGE WITH 42 PROFILE INFORMATION -->
+<!----------
 <div align="center">
 
 [![ldummer-'s 42 stats](https://badge.mediaplus.ma/greenbinary/ldummer-?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 </div>
+---->
 <!-- !end! BADGE WITH 42 PROFILE INFORMATION -->
+
 
 <!-- LIST OF PROJECTS -->
 
@@ -28,17 +32,10 @@
 - [Born2beRoot](https://github.com/letdummer/42_Born2beRoot)
 
 </details>
+
 <!-- !end! LIST OF PROJECTS -->
-
-
-<!-- BADGE WITH LAST COMMIT // change the last parameter to the most recent repository-->
-
-![GitHub last commit](https://img.shields.io/github/last-commit/letdummer/42_printf)
-
-<!-- !end! BADGE WITH LAST COMMIT -->
-
-
 <!-- DESCRIPTION OF THE LANGUAGES AND TOOLS USED -->
+
 <table><div align="center">
 
 ## Languages & Tools
@@ -48,7 +45,6 @@
     <img src="https://skillicons.dev/icons?i=bash,c,vim,cmake,git,linux,notion,vscode" />
   </a>
 </p>
-
 <!-- !end! DESCRIPTION OF THE LANGUAGES AND TOOLS USED -->
 <!-- TEXT SAYING THAT THE PROFILE IS UNDER CONSTRUCTION -->
    <tr>  <div align="center">
@@ -57,3 +53,10 @@
   </tr>
   </table>
 <!-- !end! TEXT SAYING THAT THE PROFILE IS UNDER CONSTRUCTION -->
+<!-- BADGE WITH LAST COMMIT // change the last parameter to the most recent repository-->
+<div align="center">
+  
+![GitHub last commit](https://img.shields.io/github/last-commit/letdummer/42_printf)
+</div>
+
+<!-- !end! BADGE WITH LAST COMMIT -->
