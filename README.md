@@ -31,6 +31,10 @@ FIM COMENTARIO ------->
 - [ft_printf](https://github.com/letdummer/42_printf)
 - [Born2beRoot](https://github.com/letdummer/42_Born2beRoot)
 
+<h5>Currently working on:</h5> 
+
+- [get_next_line](https://github.com/letdummer/42_get_next_line.git)
+
 </details>
 
 <!-- !end! LIST OF PROJECTS -->
