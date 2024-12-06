@@ -8,16 +8,15 @@ FIM COMENTARIO ------->
 
 
 <!-- BADGE WITH 42 PROFILE INFORMATION -->
-<!----------
+<!---------- COMENTADO
 <div align="center">
 
 [![ldummer-'s 42 stats](https://badge.mediaplus.ma/greenbinary/ldummer-?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 </div>
----->
+FIM COMENTARIO ---->
+
 <!-- !end! BADGE WITH 42 PROFILE INFORMATION -->
-
-
 <!-- LIST OF PROJECTS -->
 
 <details open>
@@ -46,7 +45,7 @@ FIM COMENTARIO ------->
   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,c,vim,cmake,git,linux,notion,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,bash,linux,notion,vim,vscode" />
   </a>
 </p>
 <!-- !end! DESCRIPTION OF THE LANGUAGES AND TOOLS USED -->
