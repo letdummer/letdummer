@@ -26,13 +26,14 @@ FIM COMENTARIO ---->
   ### 42 Common Core Projects 
 </summary>
 
-- [Libft](https://github.com/letdummer/42_libft)
-- [ft_printf](https://github.com/letdummer/42_printf)
-- [Born2beRoot](https://github.com/letdummer/42_Born2beRoot)
+- [Libft](https://github.com/letdummer/42_libft) ✅
+- [ft_printf](https://github.com/letdummer/42_printf) ✅
+- [Born2beRoot](https://github.com/letdummer/42_Born2beRoot) ✅
+- [get_next_line](https://github.com/letdummer/42_get_next_line.git) ✅
 
 <h5>Currently working on:</h5> 
 
-- [get_next_line](https://github.com/letdummer/42_get_next_line.git)
+- [Push swap](https://github.com/letdummer/42_push_swap) ✳️
 
 </details>
 
@@ -63,3 +64,7 @@ FIM COMENTARIO ---->
 </div>
 
 <!-- !end! BADGE WITH LAST COMMIT -->
+
+## Contact
+<a href="mailto:dummerleticia@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"></a>
+
