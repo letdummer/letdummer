@@ -30,10 +30,11 @@ FIM COMENTARIO ---->
 - [ft_printf](https://github.com/letdummer/42_printf) ✅
 - [Born2beRoot](https://github.com/letdummer/42_Born2beRoot) ✅
 - [get_next_line](https://github.com/letdummer/42_get_next_line.git) ✅
+- [Push swap](https://github.com/letdummer/42_push_swap)  ✅
 
 <h5>Currently working on:</h5> 
 
-- [Push swap](https://github.com/letdummer/42_push_swap) ✳️
+- [So_long] ✳️
 
 </details>
 
