@@ -31,10 +31,10 @@ FIM COMENTARIO ---->
 - [Born2beRoot](https://github.com/letdummer/42_Born2beRoot) ✅
 - [get_next_line](https://github.com/letdummer/42_get_next_line.git) ✅
 - [Push swap](https://github.com/letdummer/42_push_swap)  ✅
-
+- [So_Long](https://github.com/letdummer/42_So_long_linux) ✅ (I will update with a preview video in a few days)
 <h5>Currently working on:</h5> 
 
-- [So_long] ✳️
+- [Minitalk] ✳️
 
 </details>
 
