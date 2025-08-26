@@ -62,7 +62,7 @@ FIM COMENTARIO ---->
 <!-- BADGE WITH LAST COMMIT // change the last parameter to the most recent repository-->
 <div align="center">
   
-![GitHub last commit](https://img.shields.io/github/last-commit/letdummer/42_printf)
+![GitHub last commit](https://img.shields.io/github/last-commit/letdummer/42_Minitalk)
 </div>
 
 <!-- !end! BADGE WITH LAST COMMIT -->
