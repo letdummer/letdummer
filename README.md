@@ -48,7 +48,7 @@ FIM COMENTARIO ---->
   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,bash,linux,notion,vim,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,bash,linux,notion,vscode" />
   </a>
 </p>
 <!-- !end! DESCRIPTION OF THE LANGUAGES AND TOOLS USED -->
